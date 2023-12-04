@@ -161,6 +161,7 @@ width: 300px;
 #buttonQuantity{
   margin: 0;
   padding: 6px 15px;
+  width: 50px !important;
   }
 
 #lessQuantity{
